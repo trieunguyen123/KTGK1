@@ -1,1 +1,2 @@
 asdasdasdasdjasdhkasdhasjkd
+<type>_<issue id>_<tên issue>
